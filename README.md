@@ -2,8 +2,17 @@
 <img width="600" height="300" alt="resopulse-logo-github" src="https://github.com/user-attachments/assets/60cb9d65-a17b-4c91-918c-0833ba8a3a4d" />
 </p>
 
+<div align="center">
+
+[![Three.js](https://img.shields.io/badge/Three.js-r128+-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![WebGL](https://img.shields.io/badge/WebGL-GLSL-red?style=for-the-badge)](https://get.webgl.org/)
+[![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
+
 ## Overview
-ResoPulse is an reactive-motion music visualizer that includes a movable icosahedron which pulses out particles for each audio peak detected from an user-input audio file. The music visualizer is developed as a team class project for our graduate Computer Animation class, and it is made using JavaScript, specifically the THREE.js library, and WebGL.
+ResoPulse is an reactive-motion music visualizer that includes a movable icosahedron which pulses out particles for each audio peak detected from an user-input audio file. The music visualizer is developed as a team class project for our graduate Computer Animation class, and it is made using JavaScript, specifically the THREE.js library, Vite, and WebGL.
 
 ## Display
 <img width="1918" height="957" alt="Screenshot 2025-12-11 112515" src="https://github.com/user-attachments/assets/910ee4d0-b66c-4c4e-ad73-9d27f5185856" />
